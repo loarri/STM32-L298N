@@ -1,5 +1,16 @@
+/*----------------------------------------
+/*
+/* STM32-F411RE + L298N + potentiometer
+/*
+/* Author: Lorenzo Arrigoni
+/*
+/* Date: May 2020
+/*
+/*-----------------------------------------*/
+
+
 #include "mbed.h"
-/* loarri - ok funziona- va avanti lentamente e torna di 90 gradi veloce
+/*
 #define ENA 8
 #define ENB 13
 
